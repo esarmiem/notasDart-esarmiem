@@ -9,7 +9,8 @@ https://www.notion.so/Dart-e1d4a04c176646ed9c40c1224df8620b?pvs=4
 
 Aquí encontrarás mis notas en Notion para aprender Dart de manera fácil, con ejemplos y enlaces directos a la documentación oficial. Este repositorio está diseñado para ser una guía útil para aquellos que quieran aprender Dart, ya sea para proyectos personales o profesionales.
 
-![image](https://github.com/esarmiem/notasDart-esarmiem/assets/114357859/93a7f4b4-96e1-4de9-a62c-2000c0f57223)
+![image](https://github.com/esarmiem/notasDart-esarmiem/assets/114357859/a8c747f2-18e2-4a52-a233-812e532f0229)
+
 
 ## Contenido
 El repositorio está organizado en diferentes secciones, cada una de las cuales se enfoca en un tema específico de Dart. Algunas de las secciones incluyen:
