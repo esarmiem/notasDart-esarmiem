@@ -5,7 +5,7 @@ mis notas en Notion para aprender Dart de manera fácil, con ejemplos y enlaces 
 
 Enlace mis notas en Notion 👇
 
-https://www.notion.so/Dart-e1d4a04c176646ed9c40c1224df8620b?pvs=4
+[https://www.notion.so/Dart-e1d4a04c176646ed9c40c1224df8620b?pvs=4](https://sassy-detective-60f.notion.site/Dart-e1d4a04c176646ed9c40c1224df8620b?pvs=4)
 
 Aquí encontrarás mis notas en Notion para aprender Dart de manera fácil, con ejemplos y enlaces directos a la documentación oficial. Este repositorio está diseñado para ser una guía útil para aquellos que quieran aprender Dart, ya sea para proyectos personales o profesionales.
 
